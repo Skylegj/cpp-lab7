@@ -1,0 +1,8 @@
+Type: Mountain
+Bicycles:
+Trek Marlin 5;Mountain;4;250
+Scott Aspect 950;Mountain;2;300
+Merida Big Nine;Mountain;5;220
+Available: 11
+Revenue per hour: 2700
+Cheapest: Stels Navigator; 150
